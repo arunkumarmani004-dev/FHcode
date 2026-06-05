@@ -161,39 +161,39 @@
 //     console.log(row);
 // }
 
-for(let i = 1; i <= 5; i++) {
+// for(let i = 1; i <= 5; i++) {
 
-    let row = "";
+//     let row = "";
 
-    for(let j = 1; j <= i; j++) {
-        row = row + "*";
-    }
+//     for(let j = 1; j <= i; j++) {
+//         row = row + "*";
+//     }
 
-    console.log(row);
-}
+//     console.log(row);
+// }
 
-let n=7
-for (let i = n - 1; i >= 1; i--) {
-    let row = "";
+// let n=7
+// for (let i = n - 1; i >= 1; i--) {
+//     let row = "";
 
-    for (let j = 1; j <= n - i; j++) {
-        row += " ";
-    }
+//     for (let j = 1; j <= n - i; j++) {
+//         row += " ";
+//     }
 
-    for (let k = 1, k <= 2 * i - 1, k++) {
-        row += "*";
-    }
+//     for (let k = 1, k <= 2 * i - 1, k++) {
+//         row += "*";
+//     }
 
-    console.log(row);
-}
+//     console.log(row);
+// }
 
-let person={
-    name: "ramya",
-    age: 30,
-    address:"street",
+// let person={
+//     name: "ramya",
+//     age: 30,
+//     address:"street",
 
-}
-console.log(person)
-person.skill=['js','api']
-console.log(person)
-console.log(person.shill[1])
+// }
+// console.log(person)
+// person.skill=['js','api']
+// console.log(person)
+// console.log(person.shill[1])
