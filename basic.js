@@ -9,6 +9,7 @@ console.log(`hi
               fine`);
               var num=40;
               console.log(num);
-          //    let n=40;
-            //    for(let i=1;i<=n;i++){
- 
+              let n=40;
+             for(let i=1;i<=n;i++){
+
+             }
